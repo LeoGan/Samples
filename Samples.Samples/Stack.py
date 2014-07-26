@@ -9,4 +9,4 @@ class Stack:
         return self.items.pop()
 
     def isEmpty(self):
-        return (self.items == [])
+        return (self.items ==  [])
